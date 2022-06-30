@@ -17,3 +17,5 @@
 6. 调试
 
  that's all.Focus on it!
+
+Welcome Wind4110 to join my project!
