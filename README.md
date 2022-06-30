@@ -16,6 +16,10 @@
 5. 焊接电路
 6. 调试
 
+## 具体安排
+
+- 7.1：焊接单运放方波产生电路。
+
  that's all.Focus on it!
 
 Welcome Wind4110 to join my project!
