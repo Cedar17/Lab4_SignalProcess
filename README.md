@@ -22,4 +22,8 @@
 
  that's all.Focus on it!
 
-Welcome Wind4110 to join my project!  ->.
+Welcome Wind4110 to join my project! 
+
+## 进展
+
+07-01上午：实现单运放定性调节方波周期信号；单孔板焊接失败
